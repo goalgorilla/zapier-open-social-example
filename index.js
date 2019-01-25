@@ -31,7 +31,7 @@ module.exports = {
       user: {
         operation: {
           url:
-            '{{process.env.OPEN_SOCIAL_URL}}/jsonapi/user/user'
+            'https://localhost/jsonapi/user/user'
         }
       }
     }
