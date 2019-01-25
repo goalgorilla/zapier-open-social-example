@@ -1,1 +1,7 @@
-{"includeInBuild":["scripting.js"]}
+{
+  "includeInBuild": [
+    "scripting.js"
+  ],
+  "id": 8998,
+  "key": "App8998"
+}

@@ -39,7 +39,6 @@ module.exports = {
   platformVersion: '7.6.0',
   searches: {},
   triggers: {
-    [profileTrigger.key]: profileTrigger,
     [userTrigger.key]: userTrigger
   },
   version: '1.0.0'
