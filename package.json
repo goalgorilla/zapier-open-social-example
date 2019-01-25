@@ -1,0 +1,26 @@
+{
+  "name": "open-social-basic-auth-poc",
+  "version": "1.0.0",
+  "description": "Open Social Basic Auth proof of concept, don't use in production.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive -t 10000"
+  },
+  "engines": {
+    "node": "8.10.0",
+    "npm": ">=5.6.0"
+  },
+  "dependencies": {
+    "zapier-platform-core": "7.6.0",
+    "zapier-platform-legacy-scripting-runner": "3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.0"
+  },
+  "private": true,
+  "zapier": {
+    "convertedFromAppID": 103062,
+    "convertedByCLIVersion": "7.6.0"
+  }
+}
